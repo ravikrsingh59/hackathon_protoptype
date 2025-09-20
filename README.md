@@ -1,3 +1,3 @@
 # hackathon_protoptype
-copy the link below and open it in new tab
+click on the link -> 
 https://itinerary-iq.lovable.app
