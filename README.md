@@ -1,2 +1,3 @@
 # hackathon_protoptype
-This is a travel website prototype for Gen AI Exchange Hackathon
+copy the link below and open it in new tab
+https://itinerary-iq.lovable.app
